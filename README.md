@@ -11,4 +11,4 @@ Designing a 4-stage pipelined processor involves dividing instruction execution 
 
 Opcode: 00 → ADD Dest reg: 001 → R1 Src reg: 000 → R0 So: ADD R1, R1, R0 Conclusion This design successfully demonstrates how a pipelined processor can improve efficiency by executing different stages of multiple instructions in parallel. While the current implementation is simple and does not handle hazards (like data dependencies or control hazards), it serves as a foundational model for understanding pipelining in computer architecture. Future improvements can include support for multiple instructions, branch handling, data forwarding, and hazard detection mechanisms.
 #OUTPUT
-https://github.com/keerthibanavath/Pipeline/issues/new
+![Image](https://github.com/user-attachments/assets/e7271fc5-fc7c-45b3-b143-de174489ce1d)
